@@ -2,7 +2,6 @@ from NTPClient import NTPClient
 from datetime import datetime
 
 
-
 # NTPClientクラスのインスタンスを生成します。
 ntpClient:NTPClient = NTPClient()
 # NTPサーバーから時刻を取得します。
